@@ -43,8 +43,25 @@
 24. Нажмите на кнопку "Сохранить" в правом верхнем углу экрана
 25. Задайте имя дашборда, если появится окно ввода имени дашборда  
 
-![alt text](https://github.com/travickiy67/gitlab/blob/main/img/img1.1.png) 
+**скрин 1**
+
+![alt text](https://github.com/travickiy67/ymdex-cloud/blob/main/img/img1.1.png) 
+
+**скрин 2**
+
+![alt text](https://github.com/travickiy67/ymdex-cloud/blob/main/img/img1.2.png)
 
 ### Задание 2 
 
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
+
+**скрин 1**
+
+![alt text](https://github.com/travickiy67/ymdex-cloud/blob/main/img/img2.1.png)
+
+**скрин 2**
+
+![alt text](https://github.com/travickiy67/ymdex-cloud/blob/main/img/img2.2.png)
+
+Я думаю, что так.  
+ 
